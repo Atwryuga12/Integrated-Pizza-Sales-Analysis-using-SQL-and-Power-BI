@@ -1,60 +1,46 @@
+Project Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiMmVkN2JmZmMtNDQ5OC00NTZlLThmNGUtOWIwZDBkN2QxYTQzIiwidCI6IjE2MGUxZjZhLTg4MjgtNGVkNi04MzE5LWNiNjBhMjhhNDIyZSJ9
+
 # Integrated-Pizza-Sales-Analysis-using-SQL-and-Power-BI
-This project demonstrates the integration of SQL for robust data querying and Power BI for dynamic visual analytics. The objective is to analyze a pizza sales dataset, uncover key business insights, and present them through interactive dashboards.The project highlights the synergy of database management and visualization tools to enable data-driven decision-making.
+The project aimed to solve a two-fold business challenge. First, meeting KPIs requirements such as Total Revenue, Average Order Value, Total Pizza Sold, Total Orders, and Average Pizzas per Order. Second, uncovering deeper insights including daily and monthly sales trends, percentage breakdown by category and size, total pizzas sold by category, and identifying top and bottom-performing pizzas based on revenue, quantity, and orders.
 
-**Project Objectives:**
-SQL Querying for Business Metrics:
+Task:
+The goal was to analyze pizza sales data to extract actionable insights that could optimize sales strategies, improve product placement, and enhance customer engagement.
 
-Perform detailed analysis of pizza sales using structured SQL queries.
-Extract meaningful insights such as total revenue, average order value, and customer behavior patterns.
+Data Preparation and Analysis:
+Utilized SQL for analyzing data to calculate metrics and derive insights.
+Designed queries to generate KPIs and identify trends by date, category, and size.
 
-**Dynamic Dashboards in Power BI:**
+Visualization Development:
+Built an interactive and dynamic dashboard in Power BI to showcase key performance indicators (KPIs) and insights.
+Created charts and visuals to highlight daily/monthly trends, category-wise sales distribution, and product performance.
 
-Build a visual representation of the data for better comprehension of business trends.
-Create interactive dashboards for stakeholders to explore key performance indicators (KPIs).
+Key Metrics Delivered:
+Total Revenue, Average Order Value, Total Pizza Sold, Total Orders, and Average Pizzas per Order were accurately calculated and visualized.
+Insights Uncovered:
 
-**SQL Analysis:**
-The project uses SQL to perform data analysis tasks, which include but are not limited to:
+Peak Sales:
+Identified May, July, and August as the highest revenue-generating months.
+Thursdays, Fridays, and Saturdays (weekends) recorded maximum sales.
+Best-Selling Products:
+Classic and Supreme pizzas accounted for 52% of sales.
+Large and Medium sizes contributed 76% of total revenue.
+Top Performers:
+Thai Chicken Pizza generated the highest revenue.
+Classic Deluxe Pizza recorded the highest quantity sold and number of orders.
+Bottom Performers:
+Brie Curre Pizza had the least revenue, orders, and quantity sold.
 
-Total Revenue:
-Calculate the overall revenue from all sales transactions.
+Applications:
+While this was a personal project, it demonstrated potential real-world applicability:
+Marketing: Informed campaigns targeting high-revenue products and peak periods.
+Sales Optimization: Highlighted opportunities for cross-selling/up-selling based on top performers.
+Customer Engagement: Provided insights to personalize offers based on product popularity and timing.
 
-Average Order Value (AOV):
-Compute the average revenue per order, providing insights into customer spending behavior.
+Skills Utilized:
+Data Preparation and Cleaning (Power BI)
+Advanced Data Analysis and Insights Generation (SQL)
+Visualization and Dashboard Development (Power BI)
+Time-Series and Trend Analysis
 
-Total Pizzas Sold:
-Aggregate the total number of pizzas sold, giving an understanding of product demand.
-
-Total Orders Placed:
-Count the number of unique orders, indicating the transaction volume.
-
-Average Pizzas Per Order:
-Estimate the average quantity of pizzas purchased per transaction to analyze customer purchasing habits.
-
-**Power BI Dashboards:**
-The Power BI file integrates these SQL analyses to create a user-friendly, interactive dashboard that features:
-
-Sales Overview Dashboard:
-
-KPIs: Total revenue, total pizzas sold, and total orders
-Trends: Monthly or daily revenue and order volume trends.
-Product Popularity: Insights into best-selling pizza categories.
-Customer Insights Dashboard:
-
-Segmentation: Breakdown by order size..
-
-SQL: To query and analyze the pizza sales dataset, ensuring data accuracy and extracting meaningful metrics.
-Power BI: For building dynamic dashboards, enabling stakeholders to interact with and interpret the data visually.
-Key Learning Outcomes:
-
-Data Querying with SQL:
-
-Writing efficient and precise SQL queries to extract business insights.
-Applying aggregate functions and calculations for data summarization.
-Data Visualization with Power BI:
-
-Designing engaging dashboards with slicers, filters, and visuals.
-Creating a user-centric interface for decision-making.
-Business Insight Generation:
-
-Identifying trends, patterns, and anomalies in sales data.
-Supporting data-driven strategies to improve sales and operations.
+Outcome:
+The project successfully analyzed sales data, generated impactful insights, and presented findings through a visually engaging dashboard. It highlighted how data-driven strategies can optimize business performance and inform decision-making.
