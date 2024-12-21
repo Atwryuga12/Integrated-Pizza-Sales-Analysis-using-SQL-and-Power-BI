@@ -47,4 +47,6 @@ The project successfully analyzed sales data, generated impactful insights, and 
 
 ## Dashboard Screenshots 
 
+![Screenshot 2024-12-02 124030](https://github.com/user-attachments/assets/da2fab23-469a-416d-8419-0dc00ed2b25e)
+
 ![Screenshot 2024-12-21 223121](https://github.com/user-attachments/assets/7053f91b-6deb-4018-94cf-bf0087273e9f)
