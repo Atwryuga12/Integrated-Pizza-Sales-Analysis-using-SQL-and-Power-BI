@@ -1,4 +1,4 @@
-Project Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiMmVkN2JmZmMtNDQ5OC00NTZlLThmNGUtOWIwZDBkN2QxYTQzIiwidCI6IjE2MGUxZjZhLTg4MjgtNGVkNi04MzE5LWNiNjBhMjhhNDIyZSJ9
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMmVkN2JmZmMtNDQ5OC00NTZlLThmNGUtOWIwZDBkN2QxYTQzIiwidCI6IjE2MGUxZjZhLTg4MjgtNGVkNi04MzE5LWNiNjBhMjhhNDIyZSJ9" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #24292f; color: #ffffff; border-radius: 5px;">Dashboard Link</a>
 
 # Pizza-Sales-Analysis-using-SQL-and-Power-BI
 The project aimed to solve a two-fold business challenge. First, meeting KPIs requirements such as Total Revenue, Average Order Value, Total Pizza Sold, Total Orders, and Average Pizzas per Order. Second, uncovering deeper insights including daily and monthly sales trends, percentage breakdown by category and size, total pizzas sold by category, and identifying top and bottom-performing pizzas based on revenue, quantity, and orders.
